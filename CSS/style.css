@@ -1,0 +1,23 @@
+body{
+    color:#006769;
+    background-color:#e6ff942f;
+    
+    /* box-shadow:#40A578; */
+}
+.container{
+    background-color: #E6FF94;
+}
+h1{
+    font-size: 80px;
+}
+.btn{
+   background-color:#006769;
+   color: #E6FF94;
+}
+.btn:hover{
+    border:#006769 solid 2px;
+    color:#006769;
+}
+h3{
+   color: #000;
+}
